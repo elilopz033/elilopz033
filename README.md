@@ -1,21 +1,20 @@
-🌟 ¡Hola! Soy Eli
+💻 Hi there, I'm a Tech, Systems & Data Enthusiast!
+Junior Professional with hands-on experience as an IT Systems Operator, focusing on infrastructure management, OS deployment, and troubleshooting. I combine this technical background with a passion for Data Science, Business Technology, and Tech Mentoring, having worked as a Digital Skills Trainer to help others master modern tools.
 
-📍 Explorando el mundo del desarrollo de software | 💻 Developer | 🚀 Apasionada por aprender y crear con tecnología
+🚀 What I'm currently working on:
+⚙️ IT Systems & Infrastructure: Applying my experience in Linux/Windows administration, hardware maintenance, OS deployment, and network configuration.
 
-🚀 Sobre mí:
+📊 Data Analytics & Science: Developing data pipelines and statistical models using Python and Power BI.
 
-🌐 ¿Quién soy?
+🗄️ Databases: Deepening my knowledge in relational databases with MySQL.
 
-Soy una entusiasta del desarrollo de software que está dando sus primeros pasos en el fascinante mundo de aplicaciones, inteligencia artificial y ciencia de datos. Cada día es una nueva oportunidad para descubrir algo nuevo, ya sea en la tecnología, los videojuegos, o una buena película. 🎮🎬
+💼 Enterprise Systems: Certified in SAP S/4HANA Finance (FI), understanding business data workflows and financial structures.
 
-🛠️ ¿Qué estoy haciendo?
+🛠️ Tech Stack & Tools:
+Operating Systems & Hardware: Linux, Windows Server, OS Cloning, Network Configuration (IPv4/IPv6), IT Security.
 
-Aprendiendo a crear aplicaciones desde cero, combinando funcionalidad y diseño.
-Explorando el potencial de inteligencia artificial y ciencia de datos para resolver problemas del mundo real.
-Formándome para convertir mis ideas y sueños tecnológicos en proyectos tangibles.
+Languages & Databases: Python, SQL (MySQL), Git & GitHub.
 
-🎨 Curiosidades Random
+Data & BI: Power BI, IBM Watson Studio.
 
-Podría pasar horas hablando de mis películas o videojuegos favoritos.
-Disfruto el proceso de aprendizaje tanto como el resultado final.
-Mis días ideales incluyen un rato de aprendizaje, un videojuego, y una buena dosis de cine. ☕
+Soft Skills: Technical Training, Mentoring, Problem Solving.
